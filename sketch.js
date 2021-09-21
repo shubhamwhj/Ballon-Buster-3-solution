@@ -105,7 +105,7 @@ function draw() {
 }
 
 /*Uncomment correct if block to 
-detroy the blue baloon when hit 
+destroy the blue balloon when hit 
 by the arrows */
 
 //  if (arrowGroup.isTouching(blueB)) {
